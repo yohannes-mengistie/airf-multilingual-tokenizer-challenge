@@ -8,6 +8,8 @@ name: Validate submission
 on:
   push:
     branches: [submission]
+    paths:
+      - "submissions/**"
   pull_request:
     paths:
       - "submissions/**"
