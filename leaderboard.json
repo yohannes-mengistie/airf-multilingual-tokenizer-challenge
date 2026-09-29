@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:59:19+00:00",
+  "generated_at": "2026-09-29T06:58:18+00:00",
   "metric": "Average tokens per word plus a 100x unknown-token penalty, across Hausa, Swahili, Yoruba and Amharic, plus any amount by which English or French exceeds 1.15 times that average, plus 3x the share of rows the tokenizer fails to reconstruct exactly. Lower is better.",
   "repository": "aims-ai-research-foundations/airf-multilingual-tokenizer-challenge",
   "entries": [
@@ -13,9 +13,9 @@
       "unknown_rate": 0.0,
       "guardrail_penalty": 0.0407,
       "reconstruction": 1.0,
-      "speed_chars_per_second": 4320462,
+      "speed_chars_per_second": 5368257,
       "vocab_size": 10000,
-      "evaluated_at": "2026-09-28T06:59:19+00:00",
+      "evaluated_at": "2026-09-29T06:58:18+00:00",
       "fertility_by_language": {
         "en": 1.9565,
         "fr": 2.3043,
@@ -35,9 +35,9 @@
       "unknown_rate": 0.0,
       "guardrail_penalty": 0.1564,
       "reconstruction": 1.0,
-      "speed_chars_per_second": 4852812,
+      "speed_chars_per_second": 6318501,
       "vocab_size": 10000,
-      "evaluated_at": "2026-09-28T06:59:19+00:00",
+      "evaluated_at": "2026-09-29T06:58:18+00:00",
       "fertility_by_language": {
         "en": 2.087,
         "fr": 2.3913,
@@ -57,9 +57,9 @@
       "unknown_rate": 0.0,
       "guardrail_penalty": 0.1564,
       "reconstruction": 1.0,
-      "speed_chars_per_second": 4725918,
+      "speed_chars_per_second": 4238065,
       "vocab_size": 10000,
-      "evaluated_at": "2026-09-28T06:59:19+00:00",
+      "evaluated_at": "2026-09-29T06:58:18+00:00",
       "fertility_by_language": {
         "en": 2.1304,
         "fr": 2.3913,
@@ -79,9 +79,9 @@
       "unknown_rate": 0.0,
       "guardrail_penalty": 0.0,
       "reconstruction": 1.0,
-      "speed_chars_per_second": 4765549,
+      "speed_chars_per_second": 4852169,
       "vocab_size": 10000,
-      "evaluated_at": "2026-09-28T06:59:19+00:00",
+      "evaluated_at": "2026-09-29T06:58:18+00:00",
       "fertility_by_language": {
         "en": 1.9565,
         "fr": 2.087,
@@ -101,9 +101,9 @@
       "unknown_rate": 0.0,
       "guardrail_penalty": 0.3735,
       "reconstruction": 1.0,
-      "speed_chars_per_second": 3385830,
+      "speed_chars_per_second": 4270074,
       "vocab_size": 10000,
-      "evaluated_at": "2026-09-28T06:59:19+00:00",
+      "evaluated_at": "2026-09-29T06:58:18+00:00",
       "fertility_by_language": {
         "en": 2.1304,
         "fr": 2.6087,
